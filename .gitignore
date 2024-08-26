@@ -1,5 +1,2 @@
-*.EXE
-*.OBJ
-*.MAP
-*.bak
-*.OLD
+node_modules/
+.env
